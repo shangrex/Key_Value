@@ -1,6 +1,6 @@
 
 # Nginx & Node.js 之交差，以Key-Value為範例
-my ip:172.26.4.29/24
+
 ## Javascript 預備
 ```
 sudo apt install nodejs
